@@ -1,8 +1,10 @@
 ### Hi there 👋, My Name is Farhan
-#### Flutter Developer
-I am A Creative developer. I enjoy creating awesome user interfaces for mobile applications and bringing them alive using platform tools like flutter 📱 and Android.
+#### DevOps Engineer
 
-Skills:  JS / HTML / CSS / DART / FLUTTER
+Amazon Web Services | DOCKER | kubernetes | Jenkins | Ansible 
+
+
+
 
 
 
